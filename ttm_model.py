@@ -985,7 +985,7 @@ if __name__ == "__main__":
 
 # =================== CÓDIGO TEMPORÁRIO - INFERÊNCIA AUTOMATIZADA ===================
 # Controle on/off
-EXECUTAR_INFERENCIA_AUTOMATIZADA = False  # Mude para True para executar
+EXECUTAR_INFERENCIA_AUTOMATIZADA = True  # Mude para True para executar
 
 if EXECUTAR_INFERENCIA_AUTOMATIZADA:
     import pandas as pd
